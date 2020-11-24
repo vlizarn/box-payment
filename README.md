@@ -7,7 +7,7 @@
 ## General Information
 This project is a simple python scrypt of box payment.
 
-This a current list of project standards.
+Current list of project standards.
 
 * [Code of conduct](https://github.com/vlizarn/box-payment/blob/master/CODE_OF_CONDUCT.md)
 * [Contributing](https://github.com/vlizarn/box-payment/blob/master/CONTRIBUTING.md)
